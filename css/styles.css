@@ -34,6 +34,7 @@ ul {
   width: 1200px;
   margin: 0 auto;
   padding: 0 15px;
+  display: flex;
 }
 
 .logo-section {
@@ -562,5 +563,4 @@ ul {
   font-weight: 400;
   line-height: 30px;
   letter-spacing: 0.48px;
-  background-image: ;
 }
